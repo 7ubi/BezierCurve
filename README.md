@@ -9,5 +9,9 @@
 
 ![Alt Text](/example.png)
 
+## Sources
+
+- [Bézier curve Wikipedia](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
+
 ## How to run
 Run code using [Processing](https://processing.org/)
