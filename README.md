@@ -7,7 +7,7 @@
 
 ## Example
 
-[Alt Text](/example.png)
+![Alt Text](/example.png)
 
 ## How to run
 Run code using [Processing](https://processing.org/)
